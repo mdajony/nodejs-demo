@@ -9,7 +9,9 @@
     "restify": ">=4.1.0"
   },
   "scripts": {
-    "test": "mocha test --exit"
+    
+        "start": "node app.js",
+	"test": "mocha test --exit"
   },
   "repository": {
     "type": "git",
